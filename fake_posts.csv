@@ -1,0 +1,21 @@
+post_id,text,account_age_days,followers,posts_last_24h,has_url,duplicate_similarity,label
+1,"Je viens de lire un rapport officiel, la situation est complexe et il faut vérifier les sources avant de partager.",730,850,2,0,0.05,organic
+2,"URGENT!!! Tous les médias cachent la vérité, partagez avant suppression!!!",12,35,48,1,0.93,campaign
+3,"Analyse intéressante sur la politique énergétique, mais je vais attendre d'autres confirmations.",420,1200,3,1,0.10,organic
+4,"Ils ne veulent pas que vous sachiez ceci, copiez-collez ce message partout maintenant.",5,22,62,1,0.96,campaign
+5,"Résumé du débat municipal : plusieurs candidats ont proposé des mesures différentes.",980,340,1,0,0.02,organic
+6,"BREAKING: preuve secrète révélée, les experts mentent tous, cliquez ici.",18,70,54,1,0.91,campaign
+7,"J'ai comparé trois articles sur le sujet et les chiffres ne disent pas tous la même chose.",640,410,4,0,0.08,organic
+8,"Le même message circule dans tous les groupes : partagez massivement sans poser de questions.",9,44,73,1,0.98,campaign
+9,"Voici une infographie avec les sources citées et les limites de la méthode.",350,980,5,1,0.12,organic
+10,"La vérité explosive que les autorités veulent effacer aujourd'hui même.",7,25,81,1,0.95,campaign
+11,"Je ne suis pas certain de cette information, quelqu'un a-t-il une source fiable?",560,260,2,0,0.04,organic
+12,"Copiez ce texte exactement et publiez-le à 20h pour contourner la censure.",3,15,95,0,0.99,campaign
+13,"Article long mais nuancé sur les risques et les bénéfices possibles.",810,1500,1,1,0.03,organic
+14,"Tous les comptes patriotes doivent publier ce slogan dans les 10 prochaines minutes.",14,60,67,0,0.92,campaign
+15,"J'ai trouvé les données publiques, elles montrent une tendance graduelle, pas un choc soudain.",900,760,3,1,0.06,organic
+16,"Ne vérifiez rien, les preuves sont déjà partout, partagez vite.",6,31,88,1,0.94,campaign
+17,"Le communiqué officiel donne une version, les journalistes en donnent une autre, à comparer.",690,540,2,1,0.07,organic
+18,"Message coordonné: utilisez le hashtag maintenant et répondez tous avec la même phrase.",11,50,77,0,0.97,campaign
+19,"Je préfère attendre une confirmation indépendante avant de conclure.",1000,670,1,0,0.01,organic
+20,"Ce lien prouve tout, il sera supprimé dans une heure, partage obligatoire.",4,19,102,1,0.96,campaign
